@@ -1,1 +1,7 @@
 /go-mockgen
+
+# vendor folder shouldn't be versioned
+vendor/
+
+# ASDF files
+.tool-versions
