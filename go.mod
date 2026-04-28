@@ -1,6 +1,6 @@
 module github.com/derision-test/go-mockgen/v2
 
-go 1.25
+go 1.25.0
 
 require (
 	github.com/alecthomas/kingpin v2.2.6+incompatible
