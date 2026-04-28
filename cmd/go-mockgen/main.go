@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/derision-test/go-mockgen/v2/internal/mockgen/generation"
-	"github.com/derision-test/go-mockgen/v2/internal/mockgen/types"
+	"github.com/RubenRibGarcia/go-mockgen/v2/internal/mockgen/generation"
+	"github.com/RubenRibGarcia/go-mockgen/v2/internal/mockgen/types"
 	"golang.org/x/tools/go/packages"
 )
 
